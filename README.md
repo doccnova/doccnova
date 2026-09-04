@@ -2,7 +2,8 @@
 1. Emirhan Gedish, nickname doccnova (previously casanovaltd)
 2. 20 yo
 3. Into software engineering with C++ since 13 yo, writing Qt GUI programs as a hobby since 16 yo
-4. TOEFL B2+ level
+4. Educated to C++ in UNI Center of the Faculty of Applied Mathematics and Computer Science of the Belarusian State University (thanks to Loban Yulia Vladislavovna and Buslavskiy Alexandr Andreyevich) and continue to learn it in college
+5. TOEFL B2+ level
 
 # Used hardware/software
 Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
