@@ -18,9 +18,11 @@ Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
 [Serene Hyprland](https://codeberg.org/doccnova/serene-hyprland): Personal dotfiles for Hyprland, the dynamic Wayland compositor (image lost)
 
 [Serene Niri](https://codeberg.org/doccnova/serene-niri): Personal dotfiles for Niri, the scrollable Wayland compositor
+
 ![Serene Niri](https://codeberg.org/doccnova/serene-niri/raw/branch/main/serene-niri.png)
 
 [QtCalc](https://gitea.com/doccnova/qtcalc): Dead simple calculator written in C++ and using Qt6
+
 ![QtCalc](https://gitea.com/doccnova/qtcalc/raw/branch/main/qtcalc.png)
 
 <!--
