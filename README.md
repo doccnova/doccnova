@@ -1,4 +1,24 @@
-## Hi there 👋
+# Introduction
+1. Emirhan Gedish, nickname doccnova (previously casanovaltd)
+2. 20 yo
+3. Into software engineering with C++ since 13 yo, writing Qt GUI programs as a hobby since 16 yo
+4. TOEFL B2+ level
+
+# Used hardware/software
+Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
+- CPU: R5 4600H
+- GPUs: Radeon Vega 6 + GTX 1650Ti Mobile
+- RAM: 16 GB DDR4-3200
+- OS: Void Linux (glibc)
+- Environment: Umbriel + porting Serene X dotfiles from Niri
+- Code editors: Neovim + Zed + Qt Creator
+- Preferred compiler: GCC, G++, can also use Clang
+
+# Projects
+[Serene Hyprland](https://codeberg.org/doccnova/serene-hyprland): Personal dotfiles for Hyprland, the dynamic Wayland compositor (image lost)
+
+[Serene Niri](https://codeberg.org/doccnova/serene-niri): Personal dotfiles for Niri, the scroller Wayland compositor
+
 
 <!--
 **doccnova/doccnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
