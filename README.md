@@ -25,6 +25,10 @@ Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
 
 ![QtCalc](https://gitea.com/doccnova/qtcalc/raw/branch/main/qtcalc.png)
 
+# Experience
+- Beginner: Python, Ruby, C, QML
+- Intermediate: JavaScript, Lua
+- Advanced: C++ (primarily with Qt)
 <!--
 **doccnova/doccnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
