@@ -26,6 +26,8 @@ Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
 
 ![QtCalc](https://gitea.com/doccnova/qtcalc/raw/branch/main/qtcalc.png)
 
+[Quickshot](https://codeberg.org/doccnova/quickshot): Teeny-tiny Grim+Slurp wrapper
+
 # Experience
 - Beginner: Python, Ruby, C, QML
 - Intermediate: JavaScript, Lua
