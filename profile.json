@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "doccnova",
-  "seed": "#AC664C",
+  "seed": "#332F39",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -34,7 +34,7 @@
       },
       {
         "icon": "code",
-        "label": "C++ · Qt · (teeny-tiny) Python · Bash"
+        "label": "C++ · Qt + (teeny-tiny) Python · Bash"
       }
     ]
   },
@@ -54,8 +54,8 @@
         "label": "Love Qt + Breeze and Material 3 Expressive"
       },
       {
-        "icon": "book_2",
-        "label": "Learned C++ in UNI Center of FPMI BSU, Minsk"
+        "icon": "code_xml",
+        "label": "Learned C++ at UNI Center of FPMI BSU, Minsk"
       },
       {
         "icon": "book_ribbon",
@@ -82,12 +82,12 @@
             "label": "Python (a little)"
           },
           {
-            "icon": "brand:javascript",
-            "label": "JS (a little)"
-          },
-          {
             "icon": "brand:qt",
             "label": "QML (learning slowly)"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JS (a little)"
           }
         ]
       },
@@ -111,7 +111,7 @@
     ]
   },
   "projects": {
-    "source": "manual",
+    "source": "pinned",
     "repos": [],
     "overrides": {},
     "empty": "No description yet.",
@@ -142,7 +142,7 @@
       },
       {
         "icon": "brand:mastodon",
-        "url": "https://mastodon.social/@casanovaltd"
+        "url": "https://mastodon.social/@doccnova"
       }
     ],
     "variant": "chip",
@@ -152,18 +152,17 @@
   "buttons": {
     "items": [
       {
-        "icon": "brand:codeberg",
-        "label": "Codeberg",
-        "url": "https://codeberg.org/doccnova/",
+        "icon": "language",
+        "label": "My website",
+        "url": "https://example.com",
         "style": "filled"
       },
       {
-        "icon": "brand:gitea",
-        "label": "Gitea",
-        "url": "https://gitea.com/doccnova",
+        "icon": "book_2",
+        "label": "All repositories",
+        "url": "",
         "style": "tonal"
       }
-    ],
-    "card": false
+    ]
   }
 }
