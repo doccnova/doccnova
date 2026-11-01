@@ -19,7 +19,8 @@
   ],
   "hidden": [
     "streak",
-    "stats"
+    "stats",
+    "buttons"
   ],
   "hero": {
     "greeting": "Good day. The name's",
@@ -34,7 +35,7 @@
       },
       {
         "icon": "code",
-        "label": "C++ · QML · (teeny-tiny) Python · Bash"
+        "label": "C++ · Qt · (teeny-tiny) Python · Bash"
       }
     ]
   },
@@ -59,7 +60,7 @@
       },
       {
         "icon": "book_ribbon",
-        "label": "Studying for Technician Programmer in SEIMTC, Minsk"
+        "label": "Studying for Technician Programmer at SEIMTC, Minsk"
       }
     ]
   },
@@ -137,33 +138,33 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:telegram",
-        "url": "https://t.me/"
+        "icon": "brand:fluxer",
+        "url": "https://fluxer.name/doccnova"
       },
       {
-        "icon": "brand:discord",
-        "url": "https://discord.com/"
+        "icon": "brand:mastodon",
+        "url": "https://mastodon.social/@casanovaltd"
       },
       {
-        "icon": "brand:x",
-        "url": "https://x.com/"
+        "icon": "brand:codeberg",
+        "url": "https://codeberg.org/doccnova"
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "brand",
     "card": true
   },
   "buttons": {
     "items": [
       {
-        "icon": "brand:codeberg",
-        "label": "Codeberg",
+        "icon": "language",
+        "label": "My website",
         "url": "https://example.com",
         "style": "filled"
       },
       {
-        "icon": "brand:gitea",
-        "label": "Gitea",
+        "icon": "book_2",
+        "label": "All repositories",
         "url": "",
         "style": "tonal"
       }
