@@ -1,48 +1,17 @@
-# Introduction
-1. Emirhan Gedish, nickname doccnova (previously casanovaltd)
-2. 20 yo
-3. Into software engineering with C++ since 13 yo, writing Qt GUI programs as a hobby since 16 yo
-4. Educated to C++ in UNI Center of the Faculty of Applied Mathematics and Computer Science of the Belarusian State University (thanks to Loban Yulia Vladislavovna and Buslavskiy Alexandr Andreyevich) and continue to learn it in college
-5. TOEFL B2+ level
+<div align="center">
 
-# Used hardware/software
-Laptop: Lenovo IdeaPad Gaming 3 15ARH05 (2020)
-- CPU: R5 4600H
-- GPUs: Radeon Vega 6 + GTX 1650Ti Mobile
-- RAM: 16 GB DDR4-3200
-- OS: Void Linux (glibc)
-- Environment: Umbriel + porting Serene X dotfiles from Niri
-- Code editors: Neovim + Zed + Qt Creator
-- Preferred compiler: GCC, G++, can also use Clang
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Good day. The name&#x27;s Emirhan"></picture>
 
-# Projects
-[Serene Hyprland](https://codeberg.org/doccnova/serene-hyprland): Personal dotfiles for Hyprland, the dynamic Wayland compositor (image lost)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="33.089%" alt=""></picture><a href="https://fluxer.name/doccnova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="15.083%" alt="fluxer"></picture></a><a href="https://mastodon.social/@casanovaltd"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="18.738%" alt="mastodon"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="33.089%" alt=""></picture>
 
-[Serene Niri](https://codeberg.org/doccnova/serene-niri): Personal dotfiles for Niri, the scrollable Wayland compositor
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About me"></picture>
 
-![Serene Niri](https://codeberg.org/doccnova/serene-niri/raw/branch/main/serene-niri.png)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Tech stack"></picture>
 
-[QtCalc](https://gitea.com/doccnova/qtcalc): Dead simple calculator written in C++ and using Qt6
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
-![QtCalc](https://gitea.com/doccnova/qtcalc/raw/branch/main/qtcalc.png)
+<a href="https://codeberg.org/doccnova/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Codeberg"></picture></a>&nbsp;&nbsp;<a href="https://gitea.com/doccnova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Gitea"></picture></a>
 
-[Quickshot](https://codeberg.org/doccnova/quickshot-sh): Teeny-tiny Grim+Slurp wrapper
+<a href="https://metawka.github.io/expressive-profile/?from=doccnova"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-# Experience
-- Beginner: Python, Ruby, C, QML
-- Intermediate: JavaScript, Lua
-- Advanced: C++ (primarily with Qt)
-<!--
-**doccnova/doccnova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

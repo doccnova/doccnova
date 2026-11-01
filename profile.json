@@ -1,0 +1,169 @@
+{
+  "version": 1,
+  "login": "doccnova",
+  "seed": "#AC664C",
+  "seedFromAvatar": true,
+  "scheme": "tonalSpot",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "about",
+    "stack",
+    "projects",
+    "stats",
+    "streak",
+    "wave",
+    "buttons"
+  ],
+  "hidden": [
+    "streak",
+    "stats"
+  ],
+  "hero": {
+    "greeting": "Good day. The name's",
+    "name": "Emirhan",
+    "subtitle": "I'm just a guy who likes to make niche stuff.",
+    "typing": true,
+    "avatarShape": "cookie12",
+    "chips": [
+      {
+        "icon": "location_on",
+        "label": "Minsk"
+      },
+      {
+        "icon": "code",
+        "label": "C++ · Qt · (teeny-tiny) Python · Bash"
+      }
+    ]
+  },
+  "about": {
+    "title": "About me",
+    "items": [
+      {
+        "icon": "person",
+        "label": "Self-taught software engineer"
+      },
+      {
+        "icon": "code",
+        "label": "Hybrid between backend and GUI"
+      },
+      {
+        "icon": "palette",
+        "label": "Love Qt + Breeze and Material 3 Expressive"
+      },
+      {
+        "icon": "book_2",
+        "label": "Learned C++ in UNI Center of FPMI BSU, Minsk"
+      },
+      {
+        "icon": "book_ribbon",
+        "label": "Studying for Technician Programmer at SEIMTC, Minsk"
+      }
+    ]
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": [
+      {
+        "title": "Main",
+        "items": [
+          {
+            "icon": "brand:cplusplus",
+            "label": "C++"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "Qt"
+          },
+          {
+            "icon": "brand:python",
+            "label": "Python (a little)"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "JS (a little)"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "QML (learning slowly)"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "items": [
+          {
+            "icon": "brand:git",
+            "label": "Git"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "Qt Creator"
+          },
+          {
+            "icon": "brand:nixos",
+            "label": "Nix"
+          }
+        ]
+      }
+    ]
+  },
+  "projects": {
+    "source": "manual",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub activity",
+    "stars": "Stars earned",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:fluxer",
+        "url": "https://fluxer.name/doccnova"
+      },
+      {
+        "icon": "brand:mastodon",
+        "url": "https://mastodon.social/@casanovaltd"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:codeberg",
+        "label": "Codeberg",
+        "url": "https://codeberg.org/doccnova/",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:gitea",
+        "label": "Gitea",
+        "url": "https://gitea.com/doccnova",
+        "style": "tonal"
+      }
+    ],
+    "card": false
+  }
+}
