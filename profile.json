@@ -2,7 +2,7 @@
   "version": 1,
   "login": "doccnova",
   "seed": "#332F39",
-  "seedFromAvatar": true,
+  "seedFromAvatar": false,
   "scheme": "tonalSpot",
   "motion": true,
   "iconFill": true,
@@ -34,7 +34,7 @@
       },
       {
         "icon": "code",
-        "label": "C++ · Qt + (teeny-tiny) Python · Bash"
+        "label": "C++ · QML · (teeny-tiny) Python · Bash"
       }
     ]
   },
@@ -59,7 +59,7 @@
       },
       {
         "icon": "book_ribbon",
-        "label": "Studying for Technician Programmer at SEIMTC, Minsk"
+        "label": "Studying for Technician Programmer in SEIMTC, Minsk"
       }
     ]
   },
@@ -82,12 +82,12 @@
             "label": "Python (a little)"
           },
           {
-            "icon": "brand:qt",
-            "label": "QML (learning slowly)"
-          },
-          {
             "icon": "brand:javascript",
             "label": "JS (a little)"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "QML (slowly learning)"
           }
         ]
       },
@@ -137,29 +137,33 @@
   "socials": {
     "items": [
       {
-        "icon": "brand:fluxer",
-        "url": "https://fluxer.name/doccnova"
+        "icon": "brand:telegram",
+        "url": "https://t.me/"
       },
       {
-        "icon": "brand:mastodon",
-        "url": "https://mastodon.social/@doccnova"
+        "icon": "brand:discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "icon": "brand:x",
+        "url": "https://x.com/"
       }
     ],
     "variant": "chip",
-    "fill": "brand",
+    "fill": "tonal",
     "card": true
   },
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
+        "icon": "brand:codeberg",
+        "label": "Codeberg",
         "url": "https://example.com",
         "style": "filled"
       },
       {
-        "icon": "book_2",
-        "label": "All repositories",
+        "icon": "brand:gitea",
+        "label": "Gitea",
         "url": "",
         "style": "tonal"
       }
