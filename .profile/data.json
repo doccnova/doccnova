@@ -1,0 +1,241 @@
+{
+ "key": "4de6ea22",
+ "stars": 0,
+ "contributions": 56,
+ "repos": 12,
+ "followers": 1,
+ "languages": [
+  [
+   "CSS",
+   79898
+  ],
+  [
+   "JavaScript",
+   61349
+  ],
+  [
+   "SCSS",
+   36466
+  ],
+  [
+   "Python",
+   27332
+  ],
+  [
+   "Lua",
+   11678
+  ],
+  [
+   "HTML",
+   8821
+  ],
+  [
+   "QML",
+   1912
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 2,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 1,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 2
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "serene-niri",
+   "url": "https://github.com/doccnova/serene-niri",
+   "text": "[Mirror] Serene configuration for Niri, the scrollable Wayland compositor.",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "serene-hyprland",
+   "url": "https://github.com/doccnova/serene-hyprland",
+   "text": "[Mirror] Serene configuration for Hyprland, the dynamic Wayland compositor",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "doccnova",
+   "url": "https://github.com/doccnova/doccnova",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "serene-equilibrium",
+   "url": "https://github.com/doccnova/serene-equilibrium",
+   "text": "Website for Serene Equilibrium modpack.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/doccnova/portfolio",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "matugen-themes",
+   "url": "https://github.com/doccnova/matugen-themes",
+   "text": "",
+   "fork": true,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "better-control",
+   "url": "https://github.com/doccnova/better-control",
+   "text": "A simple control panel for linux based on the GTK framework",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "startpage",
+   "url": "https://github.com/doccnova/startpage",
+   "text": "My startpage based on Tartarus Startpage: https://github.com/AllJavi/tartarus-startpage/",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "apollo-website",
+   "url": "https://github.com/doccnova/apollo-website",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "CSS",
+   "topics": []
+  },
+  {
+   "name": "gamma-browser",
+   "url": "https://github.com/doccnova/gamma-browser",
+   "text": "A browser written in PySide6 and utilizing QtWebEngine.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "google_rubik_fonts",
+   "url": "https://github.com/doccnova/google_rubik_fonts",
+   "text": "Rubik fonts",
+   "fork": true,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "betaos-plymouth-themes",
+   "url": "https://github.com/doccnova/betaos-plymouth-themes",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  }
+ ]
+}
