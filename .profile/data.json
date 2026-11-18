@@ -1,5 +1,5 @@
 {
- "key": "6c421b77",
+ "key": "fb825b56",
  "stars": 0,
  "contributions": 61,
  "repos": 13,
@@ -30,8 +30,8 @@
    8821
   ],
   [
-   "QML",
-   1912
+   "C++",
+   2542
   ]
  ],
  "days": [
@@ -147,7 +147,7 @@
    "text": "Практика для алгоритмизации групп 11П и 13П",
    "fork": false,
    "stars": 0,
-   "language": null,
+   "language": "C++",
    "topics": []
   },
   {
