@@ -1,7 +1,7 @@
 {
- "key": "58d780a0",
+ "key": "52ab9e47",
  "stars": 0,
- "contributions": 62,
+ "contributions": 65,
  "repos": 13,
  "followers": 1,
  "languages": [
@@ -12,6 +12,10 @@
   [
    "JavaScript",
    59092
+  ],
+  [
+   "QML",
+   38995
   ],
   [
    "SCSS",
@@ -28,10 +32,6 @@
   [
    "HTML",
    8821
-  ],
-  [
-   "C++",
-   2542
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 4,
     "day": 27,
     "today": true
    },
